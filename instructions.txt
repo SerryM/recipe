@@ -1,4 +1,4 @@
-step 1: cut fruits
+step 1: cut all fruits
 step 2: prepare custard
 step 3: whip cream
 step: layer all
